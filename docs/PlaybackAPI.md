@@ -55,7 +55,7 @@ All attributes are `0` of no song is playing.  If a song is paused the variables
   },
   "rating": {
     "liked": false,
-    "disliked": false,
+    "disliked": false
   },
   "time": {
     "current": 4908,
